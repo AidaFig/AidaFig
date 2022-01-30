@@ -1,6 +1,6 @@
 ## Hi, everyone. I'm Aida Figueiredo.
 
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning React Native.
 - 📫 How to reach me: aidafigueiredo8@gmail.com
 - ⚡ I'm passionate about front-end development
 
