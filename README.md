@@ -18,6 +18,8 @@
   <img align="center" alt="Aida-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <a href="https://sass-lang.com" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
    <a href="https://git-scm.com/" target="_blank"> <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="30"/>
+   <img align="center" alt="Aida-typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+          
    <img align="right" alt="Aida-gif" src="https://i.picasion.com/pic91/6b81e4baff768e772a4003fb94f0f429.gif">
 </div>
   
